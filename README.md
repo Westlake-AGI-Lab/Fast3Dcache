@@ -11,6 +11,8 @@
 AGI Lab,Westlake University
 
 $^*$ Corresponding author
+
+🔥CVPR 2026
 </div>
 
 ---
