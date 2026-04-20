@@ -6,11 +6,13 @@
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://fast3dcache-agi.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Westlake-AGILab/Fast3Dcache)
 
-**Mengyu Yang**, **Yanming Yang**, **Chenyi Xu**, **Chenxi Song**, **Yufan Zuo**, **Tong Zhao**, **Ruibo Li**, **Chi Zhang**$^*$
+**[Mengyu Yang](https://mulinjushi.github.io)**<sup>1,2</sup>, **[Yanming Yang](https://2hitee.github.io)**<sup>1</sup>, **[Chenyi Xu](#)**<sup>1</sup>, **[Chenxi Song](https://chenxi-song.github.io)**<sup>1</sup>, **[Yufan Zuo](#)**<sup>1</sup>, **[Tong Zhao](https://tongzhao1030.github.io)**<sup>1</sup>, **[Ruibo Li](https://scholar.google.com/citations?user=qtGY5T4AAAAJ&hl=zh-CN)**<sup>3</sup>, **[Chi Zhang](https://icoz69.github.io)**<sup>1,*</sup>
 
-AGI Lab,Westlake University
+<sup>1</sup> AGI Lab, Westlake University  
+<sup>2</sup> University of Electronic Science and Technology of China  
+<sup>3</sup> Nanyang Technological University
 
-$^*$ Corresponding author
+<sup>*</sup> Corresponding author
 
 🔥CVPR 2026
 </div>
